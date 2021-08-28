@@ -1,0 +1,5 @@
+{'symbol': 'ZRXBTC', 'orderId': 260070188, 'orderListId': -1, 'clientOrderId': 'ewXlVsyNbd72ZHexzRlo57', 'transactTime': 1629109927336, 'price': '0.00000000', 'origQty': '18.00000000', 'executedQty': '18.00000000', 'cummulativeQuoteQty': '0.00041094', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [
+        {'price': '0.00002283', 'qty': '18.00000000', 'commission': '0.01800000', 'commissionAsset': 'ZRX', 'tradeId': 22766463
+        }
+    ]
+}
